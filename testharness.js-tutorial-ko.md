@@ -1,5 +1,7 @@
 # testharness.js 튜토리얼
 
+* Updated at 11 Apr. 2014, 16:32 by [Chang W. Doh](mailto:changwook.doh@gmail.com)
+
 ## 들어가며
 
 이 문서는 여러분이 [GitHub Repository][1]에서 클론(Clone)할 수 있는 W3C의 테스트 프레임워크 `testharness.js`에 대한 튜토리얼을 제공합니다. 이 튜토리얼에서 여러분이 다른 테스트 프레임워크에 대해 반드시 친숙하다고 가정하고 있지는 않습니다만 자바스크립트 API를 사용하여 테스트를 작성하므로 이에 어느 정도 능숙하시기를 기대합니다.
@@ -544,5 +546,3 @@ function completion_callback (allRes, status) {
 [GUM]: http://dev.w3.org/2011/webrtc/editor/getusermedia.html
 [6]: http://w3c-test.org/tools/runner/index.html
 [7]: #including-metadata
-
-<div style="text-align:right;">Updated at 10 Apr. 2014, 18:08 by [Chang W. Doh](mailto:changwook.doh@gmail.com)</div>
